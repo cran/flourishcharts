@@ -1,0 +1,6 @@
+dependencies:
+- name: flourish-live
+  script: 5.2.2.js
+  src: htmlwidgets/lib/flourish-live
+  stylesheet: flourish.css
+  version: 5.2.2
